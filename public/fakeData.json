@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "occupation": "Software Engineer",
+    "hobbies": ["Reading", "Cycling", "Traveling"],
+    "working_company": "Tech Innovations Inc.",
+    "img_link": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "occupation": "Graphic Designer",
+    "hobbies": ["Painting", "Photography", "Hiking"],
+    "working_company": "Creative Arts Ltd.",
+    "img_link": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "occupation": "Mechanical Engineer",
+    "hobbies": ["Robotics", "Gaming", "Mountain Biking"],
+    "working_company": "Future Tech Co.",
+    "img_link": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "occupation": "Marketing Manager",
+    "hobbies": ["Cooking", "Running", "Music"],
+    "working_company": "Brand Builders Corp.",
+    "img_link": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "occupation": "Data Scientist",
+    "hobbies": ["Chess", "Yoga", "Blogging"],
+    "working_company": "Data Solutions LLC",
+    "img_link": "https://randomuser.me/api/portraits/women/5.jpg"
+  }
+]
